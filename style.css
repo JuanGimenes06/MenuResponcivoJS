@@ -37,3 +37,7 @@ header{
     transition: 0.5s;
     text-shadow: 4px 4px 6px #0000007a;
 }
+
+.menu-barras{
+    display: none;
+}
